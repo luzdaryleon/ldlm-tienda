@@ -1,0 +1,27 @@
+/* LiteratureBooks.css */
+
+.literature-books-container {
+    margin-top: 20px;
+}
+
+.literature-books-title {
+    font-size: 24px;
+    font-weight: bold;
+    color: #333;
+}
+
+.literature-books-list {
+    list-style-type: none;
+    padding: 0;
+}
+
+.literature-books-item {
+    margin-bottom: 10px;
+    font-size: 18px;
+    color: #666;
+}
+
+.literature-books-item:hover {
+    color: #000;
+    cursor: pointer;
+}

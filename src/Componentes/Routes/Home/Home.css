@@ -1,0 +1,28 @@
+/* Home.css */
+.home-container {
+    text-align: left;
+    /* Alinea el texto a la izquierda */
+    padding: 50px;
+    background-size: cover;
+    background-position: center;
+    background-color: #7f6504bc;
+    height: 100vh;
+    /* Ajusta la altura a la pantalla completa */
+    color: white;
+    /* Cambia el color del texto a blanco */
+}
+
+.access-button {
+    background-color: #007bff;
+    color: white;
+    padding: 10px 20px;
+    margin: 10px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    font-size: 16px;
+}
+
+.access-button:hover {
+    background-color: #0056b3;
+}

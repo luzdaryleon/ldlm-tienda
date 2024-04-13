@@ -1,0 +1,36 @@
+/* Inicio.css */
+
+/* Estilos para el contenedor principal */
+.inicio-container {
+    text-align: center;
+    margin-top: 50px;
+}
+
+/* Estilos para el título */
+.inicio-title {
+    font-size: 24px;
+    margin-bottom: 20px;
+}
+
+/* Estilos para el mensaje */
+.inicio-message {
+    font-size: 18px;
+    margin-bottom: 30px;
+}
+
+/* Estilos para el botón */
+.inicio-button {
+    padding: 10px 20px;
+    font-size: 16px;
+    background-color: #007bff;
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+}
+
+/* Estilos para el botón al pasar el cursor sobre él */
+.inicio-button:hover {
+    background-color: #0056b3;
+}

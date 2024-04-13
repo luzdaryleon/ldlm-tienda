@@ -1,0 +1,27 @@
+/* SpanishBooks.css */
+
+.spanish-books-container {
+    margin-top: 20px;
+}
+
+.spanish-books-title {
+    font-size: 24px;
+    font-weight: bold;
+    color: #333;
+}
+
+.spanish-books-list {
+    list-style-type: none;
+    padding: 0;
+}
+
+.spanish-books-item {
+    margin-bottom: 10px;
+    font-size: 18px;
+    color: #666;
+}
+
+.spanish-books-item:hover {
+    color: #000;
+    cursor: pointer;
+}

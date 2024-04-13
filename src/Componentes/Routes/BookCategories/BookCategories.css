@@ -1,0 +1,28 @@
+/* BookCategories.css */
+
+.book-categories-container {
+    margin-top: 20px;
+}
+
+.book-categories-title {
+    font-size: 24px;
+    font-weight: bold;
+    color: #333;
+}
+
+.book-categories-list {
+    list-style-type: none;
+    padding: 0;
+}
+
+.book-categories-item {
+    margin-bottom: 10px;
+    font-size: 18px;
+    color: #666;
+    transition: color 0.3s ease;
+}
+
+.book-categories-item:hover {
+    color: #000;
+    cursor: pointer;
+}
